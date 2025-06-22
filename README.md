@@ -36,9 +36,10 @@ Neste jogo, você joga contra o computador. O objetivo é simples: chegue o mais
 
 ```bash
 python blackjack.py
+```
 
 ---
 
-## ✨ Autor
+### ✨ Autor
 
 Feito por [Giovanni Cabral](https://github.com/GiovanniCabralO).
